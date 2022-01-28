@@ -22,7 +22,7 @@ button{
 .btn-checkout {
     margin-left: .5em;
 }
-.cart-item {
+.cart-item-limestone, .cart-item-bertrandite {
     display: flex;
     position: relative;
     padding: 1em;
@@ -42,7 +42,7 @@ button{
 .total-price {
     padding: 1em 0;
 }
-.remove {
+.remove-limestone, .remove-bertrandite {
     position: absolute;
     right: 0;
     margin-right: 1em;
